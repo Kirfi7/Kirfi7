@@ -5,7 +5,7 @@
 
 <h4 align="center">Profile stats</h4>
 <p align="center"><img width="550px" src="https://github-readme-stats.vercel.app/api?username=kirfi7&show_icons=true&theme=dark"/></p>
-<p align="center"><img width="650px" height="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirfi7&layout=compact&theme=dark"/></p>
+<p align="center"><img width="650px" height="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirfi7&hide_progress=true&theme=dark"/></p>
 
 <h4 align="center">Contact me</h4>
 <p align="center">

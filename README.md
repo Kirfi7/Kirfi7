@@ -10,7 +10,7 @@
 <h4 align="center">Contact me</h4>
 <p align="center">
   <a href="https://t.me/kirfi7">
-    <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="kirill belotserkovsky telegram profile" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="kirill belotserkovsky telegram profile" height="50" width="50">
   </a>
   <a href="https://vk.com/belygnom">
     <img src="https://www.vectorlogo.zone/logos/vk/vk-icon.svg" 

@@ -1,4 +1,4 @@
-<h1 align="center">Hi there :wave:. Welcome to my github profile! :door:</h2>
+<h1 align="center">Hi there. Welcome to my github profile!</h2>
 <h2 align="center">Github stats :bar_chart:</h2>
 <h4 align="center">Visitings count</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{kirfi7}/count.svg" alt="kirill belotserkosky visitor count" /></p>
